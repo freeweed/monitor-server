@@ -1,0 +1,29 @@
+{
+  "name": "monitor-server",
+  "version": "1.0.0",
+  "description": "monitor server and sent you notify via line notify",
+  "main": "app.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freeweed/monitor-server.git"
+  },
+  "keywords": [
+    "monitor",
+    "server",
+    "line",
+    "notify"
+  ],
+  "author": "freeweed",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/freeweed/monitor-server/issues"
+  },
+  "homepage": "https://github.com/freeweed/monitor-server#readme",
+  "dependencies": {
+    "monitor": "^0.6.10",
+    "request": "^2.80.0"
+  }
+}
